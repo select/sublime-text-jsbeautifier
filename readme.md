@@ -2,6 +2,7 @@ Summary
 =======
 
 Uses the commandline/python-module javascript formatter from http://jsbeautifier.org/ to format the selected text, or the entire file if there is no selection. 
+
 Attention: the plugin does not check to make sure the buffer has a `.js` file type, it just javascript formats the selection/file. Thus, use with caution if you are in an HTML file.
 
 Install
@@ -20,7 +21,8 @@ Key Binding
 -----------
 
 The default key binding is `ctrl+shift+j`
-This is similar to auto pep8 'ctrl+shift+8' for python
+
+This is similar to auto pep8 `ctrl+shift+8` for python
 
 Updates
 -------
