@@ -1,3 +1,3 @@
 [
-    { "caption": "Format: Javascript", "command": "js_format" }
+    { "caption": "Java Script Beautify", "command": "jsbeautify" }
 ]
